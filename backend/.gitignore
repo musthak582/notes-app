@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Optional: Ignore MongoDB dump files
+dump/
+
+# Optional: Ignore database files (if any)
+*.local
+
+# Optional: Ignore uploads (if not stored remotely)
+uploads/
