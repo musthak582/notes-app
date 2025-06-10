@@ -10,7 +10,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [View the Live App](https://your-vercel-url.vercel.app) 
+🌐 [View the Live App](https://notes-app-mu-peach.vercel.app/)
 ---
 
 ## 🛠️ Tech Stack
