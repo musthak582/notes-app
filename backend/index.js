@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const mongoose = require("mongoose");
 
-mongoose.connect(process.env.MONGO_URL || 3000);
+mongoose.connect(process.env.MONGO_URL);
 
 const User = require("./models/user.model");
 const Note = require("./models/note.model");
